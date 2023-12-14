@@ -91,10 +91,6 @@ To set up the social media API, follow these steps:
 curl http://localhost:3001/api/users
 ```
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
